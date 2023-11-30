@@ -1,0 +1,4 @@
+src/screenshots/*
+!src/screenshots/.gitkeep
+/node_modules
+
