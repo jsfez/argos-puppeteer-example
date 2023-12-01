@@ -15,6 +15,6 @@
   },
   "devDependencies": {
     "@argos-ci/cli": "^1.0.4",
-    "@argos-ci/puppeteer": "^1.1.2"
+    "@argos-ci/puppeteer": "^1.1.5"
   }
 }

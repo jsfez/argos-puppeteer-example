@@ -5,6 +5,6 @@ import { argosScreenshot } from "@argos-ci/puppeteer";
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   await page.goto("http://example.com");
-  await argosScreenshot(page, "src/screenshots/example.png");
+  await argosScreenshot(page, "example");
   await browser.close();
 })();
