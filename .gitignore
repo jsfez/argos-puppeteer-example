@@ -1,4 +1,3 @@
-src/screenshots/*
-!src/screenshots/.gitkeep
+src/screenshots/argos
 /node_modules
 
